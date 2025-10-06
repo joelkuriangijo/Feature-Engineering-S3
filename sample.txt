@@ -1,0 +1,18 @@
+Given a text file sample.txt containing raw text, perform the following preprocessing operations:
+
+1. Convert all text to lowercase.
+
+
+2. Convert numeric values into words.
+
+
+3. Remove remaining numbers.
+
+
+4. Remove punctuation.
+
+
+5. Remove extra whitespace.
+
+
+6. Remove stopwords.
