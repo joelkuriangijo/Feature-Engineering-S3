@@ -1,18 +1,8 @@
-Given a text file sample.txt containing raw text, perform the following preprocessing operations:
+Feature Engineering is one of the MOST important steps 
+in Machine Learning and Artificial Intelligence!!! 🤖   
 
-1. Convert all text to lowercase.
+In 2025, over 5,000 students started learning ML and AI to 
+build INTELLIGENT systems...  
 
-
-2. Convert numeric values into words.
-
-
-3. Remove remaining numbers.
-
-
-4. Remove punctuation.
-
-
-5. Remove extra whitespace.
-
-
-6. Remove stopwords.
+Feature    engineering helps machines UNDERSTAND data better 
+by creating meaningful    features!!!  
